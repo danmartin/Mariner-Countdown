@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Varela+Round');
+body {
+    -webkit-font-smoothing: antialiased;
+    font-size: 90%;
+    font-family: 'Open Sans', sans-serif;
+    background: #002878;
+    color:#fff;
+}
+.container {
+    margin-top:30px;
+}
+.time-to p {
+    /* letter-spacing: 4px; */
+    font-size:1.5em;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    font-family: 'Varela Round', sans-serif;
+    font-size:4rem;
+    font-weight:800;
+    margin-bottom:0;
+}
+img {
+    max-width:300px;
+}
+[ng\:cloak],[ng-cloak],.ng-cloak{display:none !important}
